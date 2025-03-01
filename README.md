@@ -1,4 +1,4 @@
-# 95-SpaceOrbiters
+# E6- SpaceOrbiters
 
 *To know how to run the code please go bottom of this page* 
 
