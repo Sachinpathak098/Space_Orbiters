@@ -14,7 +14,7 @@ function getCurrentUser(id){
     return users.find(user => user.id === id);
 }
 
-//user leaves chat
+//user leaves chat 
 function userLeave(id){
     const index = users.findIndex(user => user.id === id);
 
